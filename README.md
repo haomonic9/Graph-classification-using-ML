@@ -12,7 +12,7 @@ Graph classification from symbolic time series data using Machine learning
 
 'dataset_example' Example data of ER, SF, and SW networks for model training.
 
-'data_generation_code' <--- We need to supplement this folder and code.
+#'data_generation_code' <--- We need to supplement this folder and code.
 
 ## Usage
 
